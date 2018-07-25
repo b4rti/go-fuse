@@ -5,7 +5,7 @@
 package nodefs
 
 import (
-	"github.com/hanwen/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse"
 )
 
 // Mounts a filesystem with the given root node on the given directory

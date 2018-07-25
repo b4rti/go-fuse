@@ -119,7 +119,7 @@ go-fuse works somewhat on OSX. Known limitations:
 ## Bugs
 
 Yes, probably.  Report them through
-https://github.com/hanwen/go-fuse/issues
+https://github.com/b4rti/go-fuse/issues
 
 ## Disclaimer
 

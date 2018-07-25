@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hanwen/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse"
 )
 
 // Check that loopback Utimens() works as expected.

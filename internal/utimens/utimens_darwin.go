@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hanwen/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse"
 )
 
 // timeToTimeval converts time.Time to syscall.Timeval

@@ -9,9 +9,9 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/hanwen/go-fuse/fuse"
-	"github.com/hanwen/go-fuse/fuse/pathfs"
-	"github.com/hanwen/go-fuse/internal/testutil"
+	"github.com/b4rti/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse/pathfs"
+	"github.com/b4rti/go-fuse/internal/testutil"
 )
 
 func modeMapEq(m1, m2 map[string]uint32) bool {

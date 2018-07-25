@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/hanwen/go-fuse/fuse"
-	"github.com/hanwen/go-fuse/fuse/pathfs"
+	"github.com/b4rti/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse/pathfs"
 )
 
 type StatFS struct {

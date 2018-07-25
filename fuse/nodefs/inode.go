@@ -8,7 +8,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/hanwen/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse"
 )
 
 type parentData struct {

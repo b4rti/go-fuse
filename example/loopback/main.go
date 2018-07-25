@@ -19,9 +19,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/hanwen/go-fuse/fuse"
-	"github.com/hanwen/go-fuse/fuse/nodefs"
-	"github.com/hanwen/go-fuse/fuse/pathfs"
+	"github.com/b4rti/go-fuse/fuse"
+	"github.com/b4rti/go-fuse/fuse/nodefs"
+	"github.com/b4rti/go-fuse/fuse/pathfs"
 )
 
 func writeMemProfile(fn string, sigs <-chan os.Signal) {
